@@ -1,3 +1,24 @@
+ 
+<p align="center">
+  <img width="197" src="https://uploads-ssl.webflow.com/640714b79cda4d79fb835487/640722329cda4dd7bc8429eb_valid8Me_Logo_0350px.png">
+</p>
+<p align="center">
+  Where businesses know their customers. Transforming Customer Onboarding with <a href="https://www.valid8me.com">valid8Me.com</a>.
+</p>
+
+<div style="border: 2px solid rgb(243, 18, 18); background-color:rgb(243, 215, 215); padding: 15px; border-radius: 5px; font-family: Arial, sans-serif;">
+  <strong>About This Fork</strong>
+  <p>
+    This repository is a fork of the original <a href="https://github.com/HarlonWang/AVLoadingIndicatorView" target="_blank">AVLoadingIndicatorView</a> library. It was created due to the inability to source the original dependency online, which was necessary to build valid8Me's Android application.
+  </p>
+  <p>
+    Only minor changes have been made to this fork, such as updates to the library version and imports, to enable the application to build successfully. These changes do not impact the functionality of the library, ensuring compatibility with existing implementations. This fork serves as a temporary solution to facilitate development and deployment until a more permanent resolution is identified.
+  </p>
+</div>
+
+__________
+__________
+
 # PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
 
 * * *
